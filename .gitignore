@@ -1,0 +1,6 @@
+/main.spec
+/main-win32.spec
+/dist/
+/build/
+/.venv/
+/.idea/
